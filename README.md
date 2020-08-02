@@ -12,5 +12,5 @@ pip install -r requirements
 ~~~
 username: user
 password: user
-Mode: Sad
+Mode: Bored
 ~~~
